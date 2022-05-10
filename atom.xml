@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>桔赖Blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-05-10T11:34:21.638Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇文章</title>
+    <link href="http://example.com/2022/05/10/day01/"/>
+    <id>http://example.com/2022/05/10/day01/</id>
+    <published>2022-05-10T08:34:11.023Z</published>
+    <updated>2022-05-10T11:34:21.638Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="我的第一个用语法生成的标题"><a href="#我的第一个用语法生成的标题" class="headerlink" title="我的第一个用语法生成的标题"></a>我的第一个用语法生成的标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h3 id="这是三级"><a href="#这是三级" class="headerlink" title="这是三级"></a>这是三级</h3><hr><h4 id="这是四级"><a href="#这是四级" class="headerlink" title="这是四级"></a>这是四级</h4><hr><h5 id="五级-五个井号"><a href="#五级-五个井号" class="headerlink" title="五级 五个井号"></a>五级 五个井号</h5><hr><h6 id="每一级都代表一个层级-六级"><a href="#每一级都代表一个层级-六级" class="headerlink" title="每一级都代表一个层级 六级"></a>每一级都代表一个层级 六级</h6><p>语法： 1 井号加空格加标题名，一个井号的就是一级标题</p><p>标题最多支持六级： 就是加几个井号 空格 标题名 就是几级标题</p><p>列举： # 标题名 1</p><p><strong>字体加粗</strong></p><p>​    字体加粗是两边都加** 两个星号</p><p>​    一个星号是斜体 <em>字体斜体</em></p><p>​    斜体加粗 则是 三个星号 <em><strong>斜体加粗</strong></em>*</p><p><strong>删除线</strong></p><p>​    删除先则是 两个波浪线  </p><p>​            <del>helloword</del></p><h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><blockquote><p>引用符 则是 右箭头加空格 &gt;</p></blockquote><h2 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h2><p>分割线有两种使用方式，第一种是三个短横杠，第二种是三个星号</p><hr><p>上面这种是短横杠 —</p><p>下面则是三个星号 ***</p><hr><h2 id="插入图片：如何插入图片？插入图片的使用方式"><a href="#插入图片：如何插入图片？插入图片的使用方式" class="headerlink" title="插入图片：如何插入图片？插入图片的使用方式"></a>插入图片：如何插入图片？插入图片的使用方式</h2><p><img src="http://imgoss.cnu.cc/2204/27/nkibls5lsk97i5g8evn1651049012102.jpg?x-oss-process=style/content" alt="网站的图片"></p><p>这是一种既可以访问网址上的，也可使用本地的图片</p><h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>​    感叹号加中括号加括号: !  [] (括号里就放图片地址)</p><blockquote><p>其中中括号里可以写他的用意</p></blockquote><h2 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h2><p><a href="http://www.baidu.com/">当你点击当前链接，会跳转到图片网址</a></p><h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><p>列表分无序和有序</p><blockquote><p>无序列表呢 则是用 段横杠 加空格 来展示回车时就会以无序列表来展示</p></blockquote><ul><li>这是1</li><li>这是2</li><li>这是3</li></ul><blockquote><p>有序列表 1.加空格</p></blockquote><ol><li>a</li><li>b</li><li>c</li></ol><h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2><table><thead><tr><th>姓名</th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table><blockquote><p>表格就用快捷键或者右键选择快速创建</p></blockquote><h2 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h2><p>代码块用三个点来表示</p><blockquote><p>注意：在tab建的上面</p></blockquote><p><strong>```</strong> 三个这样的点</p><pre class="line-numbers language-java" data-language="java"><code class="language-java">public static void main(String[] args)&#123;   &#125;</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;我的第一个用语法生成的标题&quot;&gt;&lt;a href=&quot;#我的第一个用语法生成的标题&quot; class=&quot;headerlink&quot; title=&quot;我的第一个用语法生成的标题&quot;&gt;&lt;/a&gt;我的第一个用语法生成的标题&lt;/h1&gt;&lt;h2 id=&quot;这是二级标题&quot;&gt;&lt;a href=&quot;#这是二</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
